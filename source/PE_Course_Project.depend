@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669903517 source:d:\pe-course project\project_c++\pe_course_project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
